@@ -1,0 +1,116 @@
+{
+    "comidas": [
+      {
+        "id": 1,
+        "nome": "Pipoca pequena",
+        "descricao": "Pipoca pequena com opções, salgadas, com manteiga ou com bacon, e doces com confetes ou leite condensado ",
+        "preco": 20.0,
+        "gramatura": "100gr"
+      },
+
+      {
+        "id": 2,
+        "nome": "Pipoca media",
+        "descricao": "Pipoca media com opções, salgadas, com manteiga ou com bacon, e doces com confetes ou leite condensado ",
+        "preco": 35.0,
+        "gramatura": "300gr"
+      },
+      
+      {
+        "id": 3,
+        "nome": "Pipoca grande",
+        "descricao": "Pipoca grande com opções, salgadas, com manteiga ou com bacon, e doces com confetes ou leite condensado ",
+        "preco": 50.0,
+        "gramatura": "500gr"
+      },
+      
+      
+      {
+        "id": 4,
+        "nome": "Confeitos de chocolate",
+        "descricao": "Pacote de chocolates em forma de confeitos coloridos, com opções normal e com amendoim ",
+        "preco": 10.5,
+        "gramatura": "140gr"
+      },
+      {
+        "id": 5,
+        "nome": "Bala HALLS",
+        "descricao": "Opções de balas refrescantes com variados sabores",
+        "preco": 5.5,
+        "gramatura": "27.5gr"
+      },
+      {
+        "id": 6,
+        "nome": "Bala Fini tubes",
+        "descricao": "Bala de goma doce e levemente ácida, variados sabores",
+        "preco": 10.5,
+        "gramatura": "80 gr"
+      }      
+    ],
+
+
+    "bebidas": [
+      {
+        "id": 1,
+        "nome": "Refrigerante pequeno",
+        "descricao": "Refrigerantes de variados sabores e tamanhos.",
+        "preco": 8.5,
+        "mililitros": "200ml"
+      },
+      {
+        "id": 2,
+        "nome": "Refrigerante medio",
+        "descricao": "Refrigerantes de variados sabores e tamanhos.",
+        "preco": 10.5,
+        "mililitros": "500ml"
+      },
+      {
+        "id": 3,
+        "nome": "Refrigerante grande",
+        "descricao": "Refrigerantes de variados sabores e tamanhos.",
+        "preco": 12.5,
+        "mililitros": "1L"
+      },
+      {
+        "id": 4,
+        "nome": "Café Expresso",
+        "descricao": "Café expresso tamanho unico.",
+        "preco": 4.5,
+        "mililitros": "90ml"
+      }      
+    ],
+
+
+
+
+    "bebidasalcoolicas": [
+      {
+        "id": 1,
+        "nome": "Budweiser",
+        "descricao": " Cerveja American Lager que possui sabor leve, cor clara e aroma discreto.",
+        "preco": 10.5,
+        "mililitros": "345ml"
+      },
+      {
+        "id": 2,
+        "nome": "Heineken",
+        "descricao": "Cerveja lager Puro Malte, refrescante e de cor amarelo-dourado, produzida com ingredientes 100% naturais.",
+        "preco": 13.5,
+        "mililitros": "345ml"
+      },
+      {
+        "id": 3,
+        "nome": "Corona",
+        "descricao": "Cerveja tipo Pilsen sabor leve de baixa graduação alcoólica.",
+        "preco": 12.5,
+        "mililitros": "345ml"
+      },
+      {
+        "id": 4,
+        "nome": "Vinho Vistamar Brisa",
+        "descricao": " Vinho tipo Cabernet Sauvignon.",
+        "preco": 24.5,
+        "mililitros": "187ml"
+      }      
+    ]
+  }
